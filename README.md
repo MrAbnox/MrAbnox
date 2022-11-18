@@ -14,4 +14,12 @@ My name is Pedro, and I am a Game Designer/Programmer at Lightbrick Studio. I am
 # 🎮 Game Development
 I have been studying game development for the past 5 years. I started by doing My Bachelor in Games Programming and Design in London. Now I am in my last semester of my Games Master. I am also working for Lightbrick Studio, where I help developing games using Unity, helping with both Game/Level Design and programming.
 
+I am currently working on personal side projects that might be released.
+
+# 🕹️ Game Jams
+
+I am a Game-Jam enthusiast, and try to participate in a few throughout the year!
+
+Here's my [**itch.io page**](https://pedrorainha.itch.io/)) for my games. 
+
 

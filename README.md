@@ -20,6 +20,6 @@ I am currently working on personal side projects that might be released.
 
 I am a Game-Jam enthusiast, and try to participate in a few throughout the year!
 
-Here's my [**itch.io page**](https://pedrorainha.itch.io/)) for my games. 
+Here's my [**itch.io page**](https://pedrorainha.itch.io/) for my games. 
 
 

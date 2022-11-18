@@ -1,4 +1,4 @@
-# Hi there 👋
+![alt text](https://img.itch.zone/aW1nLzcxNzU1NTkucG5n/original/VHUzJH.png)
 
 My name is Pedro, and I am a Game Designer/Programmer at Lightbrick Studio. I am also currently finishing my Masters in Games (Tech)
 
